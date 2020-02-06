@@ -1,0 +1,5 @@
+rodar o container:
+docker run -it ruby:[insira_sua imagem] bash
+
+verificar instalaçao do ruby dentro do container:
+ruby -v
